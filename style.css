@@ -8,3 +8,6 @@ body{
     padding: 40px;
     box-shadow: 5px 5px 10px gray;
 }
+#transaction-area{
+    display: none;
+}
